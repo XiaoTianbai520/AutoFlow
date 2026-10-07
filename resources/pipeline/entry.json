@@ -1,0 +1,6 @@
+{
+  "__AutoFlowOCR": {
+    "recognition": "DirectHit",
+    "action": "DoNothing"
+  }
+}

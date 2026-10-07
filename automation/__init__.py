@@ -1,0 +1,1 @@
+"""Lightweight desktop automation editor."""
